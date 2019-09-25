@@ -1,0 +1,4 @@
+suites:
+  driving_licence_generator:
+    namespace: Braddle
+    psr4_prefix: Braddle

@@ -1,0 +1,20 @@
+{
+  "name": "braddle/phpspec-driving-licence-generator",
+  "description": "Demostation of the PHPSpec testing framework and the Prophecy mocking framework",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Bradley",
+      "email": "braddle@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Braddle\\": "src"
+    }
+  },
+  "require": {
+    "phpspec/phpspec": "6.0.x-dev"
+  }
+}
